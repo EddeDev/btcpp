@@ -1,0 +1,2 @@
+# btcpp
+C++ Bitcoin Miner
